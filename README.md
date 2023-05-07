@@ -24,7 +24,7 @@ Welcome to the **LiveQuery GPT-4** project! 🎉 This is a simple chatbot powere
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/gpt-4-langchain-conversational-assistant.git
+git clone https://github.com/yourusername/langchain_gradio.git
 ```
 
 2. Install the required packages:
